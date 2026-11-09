@@ -4,8 +4,8 @@ Plataforma de monitoramento de risco climático e alertas antecipados para cidad
 
 ## 👥 Integrantes
 * **Nome:** Davi Budin Pina
-* **RM:** [Seu RM]
-* **Turma:** 3SI
+* **RM:** 560135
+* **Turma:** 3SIZ
 
 ## 🎯 Sobre o Projeto
 O **EcoAlert** utiliza tecnologia (sensores meteorológicos e inteligência de dados) para transformar informações brutas em decisões reais para a segurança pública urbana e rural. O sistema foca em mitigar desastres naturais, antecipando enchentes e deslizamentos e notificando automaticamente a população e a Defesa Civil.
